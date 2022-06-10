@@ -13,3 +13,10 @@ Some of the features I would like to have in the final project include:
 - extra buttons for miscellaneous ingame functions
 - OLED display support because why not
 - stylish looking case
+
+# Guides/Resources Used
+- https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-1---preparations
+- https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/
+- https://www.arduino.cc/en/uploads/Main/arduino-micro-schematic.pdf
+- https://docs.google.com/document/d/1xsjb1sf3pxFw8bXC4gNhWsFhWNOthMoyz6RiJc1UtVI/edit
+- http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf
